@@ -8,7 +8,7 @@ import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(
 
-		features = { "src/test/resources/Features" }, // location of feature files
+		features = { "src/test/resources/Features/Login.feature","src/test/resources/Features/HomePage.feature" }, // location of feature files
 		glue = { "com.hooks", "com.stepDefinitions" }, monochrome = true, dryRun = false, plugin = {
 				"rerun:failed_scenarios/failed_scenarios.txt",
 
