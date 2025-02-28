@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+	<configuration>
+		<theme>dark</theme>
+		<encoding>UTF-8</encoding>
+		<protocol>http</protocol>
+		<documentTitle>BDD Breakers LMS Phase 2 Test Automation</documentTitle>
+		<reportName>BDD Breakers LMS Phase 2 Extent Report</reportName>
+		<offlineMode>true</offlineMode>
+		<thumbnailForBase64>true</thumbnailForBase64>
+		<js>
+		</js>
+		<css></css>
+	</configuration>
+</extentreports>
