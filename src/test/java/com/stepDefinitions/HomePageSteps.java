@@ -45,7 +45,7 @@ public class HomePageSteps {
 		homePage = new HomePage(driver);
 		loginPage = new LoginPage(driver);
 	}
-
+//common steps should be in background stepdef
 	/*
 	 * @Given("Admin is on login Page") public void admin_is_on_login_page() {
 	 * LoggerLoad.logInfo("Admin is on the login page"); }
